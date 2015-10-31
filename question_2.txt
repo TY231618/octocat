@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The "upstream" remote is used so that any modifications you have created locally can be sent back (upstream) to the original repository.  This especially needs to be done if a team are collaborating on a project so that they are all working with the same changes.
