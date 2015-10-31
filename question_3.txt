@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+Branches let you go back to previous states of your project (commits) and start a new independent line of development which wont effect the master branch.
