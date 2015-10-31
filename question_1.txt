@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+If you want to get a copy of a project to use or edit someone elses code or to collaborate with someone then you clone their repository.  It will copy the entire history of the project locally to your devise ready to be worked on.
